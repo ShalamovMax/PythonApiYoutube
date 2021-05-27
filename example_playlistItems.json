@@ -1,0 +1,2316 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "E9PoPbWLJvGJ7_Ax7DExeSr7bMU",
+  "nextPageToken": "CDIQAA",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iZ8_rnpbXOv7V2E-Nw9C8p_l1so",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2016-11-16T07:05:07Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "Real 4K HDR: Cannon Beach Oregon HDR UHD (Chromecast Ultra)",
+        "description": "Cannon Beach, Oregon, September 2016. Filmed on Sony A6300 and color graded to 1000 nits max peak brightness in DaVinci Resolve Studio 12.5.3.\n\nBuy a Chromecast Ultra for your 4K HDR TV: https://bhpho.to/2ry54y5\n\nThis is an HDR Channel exclusive.\n\nTo view this video in real HDR you need a 4K HDR TV and a device with YouTube HDR such as Chromecast Ultra.\n\nIf you are viewing this video on an SDR (normal non-HDR TV) the color and contrast may not look correctly.\n\nThe video does have some slight banding in the sky and some visual noise in the darker scenes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WW2DKBGCvEs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WW2DKBGCvEs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WW2DKBGCvEs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WW2DKBGCvEs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WW2DKBGCvEs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WW2DKBGCvEs"
+        },
+        "videoOwnerChannelTitle": "The HDR Channel",
+        "videoOwnerChannelId": "UCve7_yAZHFNipzeAGBI5t9g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Pg9ni5tWxAAtkVEL3BwJLvDN35s",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2016-11-16T07:05:28Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "Real 4K HDR: Seattle Kerry Park, Gas Works Park, Sunset Hill Park HDR UHD (Chromecast Ultra)",
+        "description": "Kerry Park, Gas Works Park, Sunset Hill Park, Seattle, September 2016. Buy a Chromecast Ultra for your 4K HDR TV: https://bhpho.to/2ry54y5\n\nThis is an HDR Channel exclusive. \n\nTo view this video in real HDR you need a 4K HDR TV and a device with YouTube HDR such as Chromecast Ultra.\n\nIf you are viewing this video on an SDR (normal non-HDR TV) the color and contrast may not look correctly.\n\nFilmed on Sony A6300 and color graded to 1000 nits max peak brightness in Davinci Resolve Studio 12.5.3",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5W_WVfxv6Ts/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5W_WVfxv6Ts/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5W_WVfxv6Ts/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5W_WVfxv6Ts/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5W_WVfxv6Ts/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5W_WVfxv6Ts"
+        },
+        "videoOwnerChannelTitle": "The HDR Channel",
+        "videoOwnerChannelId": "UCve7_yAZHFNipzeAGBI5t9g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "S9vwSA3L0o-gDprHczvVP-0fNvQ",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2016-11-17T19:31:29Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "Real 4K HDR 60fps: Mount Rainier, Bellevue WA Sunset HDR UHD (Chromecast Ultra)",
+        "description": "Bellevue, WA, August 2016 - Sunset with views of Seattle, Bellevue, Mount Rainier and I-405 S. Buy a Chromecast Ultra for your 4K HDR TV: https://bhpho.to/2ry54y5\n\nThis is an HDR Channel exclusive. \n\nTo view this video in real HDR you need a 4K HDR TV and a device with YouTube HDR such as Chromecast Ultra.\n\nIf you are viewing this video on an SDR (normal non-HDR TV) the color and contrast may not look correct.\n\nFilmed on Sony A6300 and color graded to 1000 nits max peak brightness in Davinci Resolve Studio 12.5.3",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m68Z8yjbUvg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m68Z8yjbUvg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m68Z8yjbUvg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/m68Z8yjbUvg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/m68Z8yjbUvg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "m68Z8yjbUvg"
+        },
+        "videoOwnerChannelTitle": "The HDR Channel",
+        "videoOwnerChannelId": "UCve7_yAZHFNipzeAGBI5t9g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TAWOSti7QUKxpECveJPQDm9vX5g",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2016-11-21T16:08:30Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "Real 4K HDR 60fps: NASA Thermonuclear Art in HDR UHD (Chromecast Ultra)",
+        "description": "The only full version of NASA Thermonuclear Art available in HDR. Buy a Chromecast Ultra for your 4K HDR TV: https://bhpho.to/2ry54y5\n\nThis video is NOT endorsed or approved by NASA.\n\nTo view this video in real HDR you need a 4K HDR TV and a device with YouTube HDR such as Chromecast Ultra.\n\nIf you are viewing this video on an SDR (normal non-HDR TV) the color and contrast may not look correct.\n\nLight Awash by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)\nSource: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100175\nArtist: http://incompetech.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NHykpuFkKQ8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NHykpuFkKQ8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NHykpuFkKQ8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NHykpuFkKQ8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NHykpuFkKQ8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NHykpuFkKQ8"
+        },
+        "videoOwnerChannelTitle": "The HDR Channel",
+        "videoOwnerChannelId": "UCve7_yAZHFNipzeAGBI5t9g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rYuVkHavrO9-DcTBN3ci3-x_LBM",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2016-11-19T08:48:08Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "Real 4K HDR 60fps: LG Chess HDR UHD (Chromecast Ultra)",
+        "description": "Video created by LG to promote their OLED TVs. Buy a Chromecast Ultra for your 4K HDR TV: https://bhpho.to/2ry54y5\n\nTo view this video in real HDR you need a 4K HDR TV and a device with YouTube HDR such as Chromecast Ultra.\n\nIf you are viewing this video on an SDR (normal non-HDR TV) the color and contrast may not look correct.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2RIDhA9c8qw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2RIDhA9c8qw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2RIDhA9c8qw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2RIDhA9c8qw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2RIDhA9c8qw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2RIDhA9c8qw"
+        },
+        "videoOwnerChannelTitle": "The HDR Channel",
+        "videoOwnerChannelId": "UCve7_yAZHFNipzeAGBI5t9g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NwboVDZsLwBgZv8dU4YeFQZLSCA",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2016-11-22T17:58:46Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "Real 4K HDR: Samsung HDR Wonderland HDR UHD (Chromecast Ultra)",
+        "description": "Video created by Samsung to promote their SUHD HDR TVs. Buy a Chromecast Ultra for your 4K HDR TV: https://bhpho.to/2ry54y5\n\nTo view this video in real HDR you need a 4K HDR TV and a device with YouTube HDR such as Chromecast Ultra.\n\nIf you are viewing this video on an SDR (normal non-HDR TV) the color and contrast may not look correct.\n\nEvening Fall Piano by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)\nSource: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100235\nArtist: http://incompetech.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PRXtoc1dJ5k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PRXtoc1dJ5k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PRXtoc1dJ5k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PRXtoc1dJ5k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PRXtoc1dJ5k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PRXtoc1dJ5k"
+        },
+        "videoOwnerChannelTitle": "The HDR Channel",
+        "videoOwnerChannelId": "UCve7_yAZHFNipzeAGBI5t9g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Mw05a5iMi6SQLNpIlUgpXrovhqc",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2016-11-23T07:50:25Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "Real 4K HDR 60fps: LG Jazz HDR UHD (Chromecast Ultra)",
+        "description": "Video created by LG to promote their TVs. Buy a Chromecast Ultra for your 4K HDR TV: https://bhpho.to/2ry54y5\n\nTo view this video in real HDR you need a 4K HDR TV and a device with YouTube HDR such as Chromecast Ultra.\n\nIf you are viewing this video on an SDR (normal non-HDR TV) the color and contrast may not look correct.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mkggXE5e2yk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mkggXE5e2yk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mkggXE5e2yk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mkggXE5e2yk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mkggXE5e2yk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mkggXE5e2yk"
+        },
+        "videoOwnerChannelTitle": "The HDR Channel",
+        "videoOwnerChannelId": "UCve7_yAZHFNipzeAGBI5t9g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FnmGkGIayHlb6xiaYZLWPxjfpJg",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2016-12-04T07:25:10Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "Real 4K HDR 60fps: Last of Us Intro in HDR UHD (Chromecast Ultra)",
+        "description": "After a lot of research, time, and money, we present to you the first 4K 60fps HDR game capture available anywhere online. \n\nBuy Last of Us: http://amzn.to/2sRYpDr\n\nBuy a Chromecast Ultra for your 4K HDR TV: https://bhpho.to/2ry54y5\n\nTo view this video in real HDR you need a 4K HDR TV and a device with YouTube HDR such as Chromecast Ultra. If you are viewing this video on an SDR (normal non-HDR TV) the color and contrast may not look correct.\n\nCaptured at 3840x2160p60 (4K60) YCbCr 4:2:0 BT.2020 SMPTE ST 2084 8-bit\n\nUsing The Last of Us PS4 Pro Patch 1.08\n\nThis first capture is in honor of the recent Last of Us sequel(-ish) announcement.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aGqOocjXLK4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aGqOocjXLK4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aGqOocjXLK4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aGqOocjXLK4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aGqOocjXLK4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aGqOocjXLK4"
+        },
+        "videoOwnerChannelTitle": "The HDR Channel",
+        "videoOwnerChannelId": "UCve7_yAZHFNipzeAGBI5t9g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "P9VMwygJig306tdsqo53hO1NpVE",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC5CMEQ2Mjk5NTc3NDZFRUNB",
+      "snippet": {
+        "publishedAt": "2016-12-07T23:55:45Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "Real 4K HDR 60fps: Last of Us HDR vs SDR Comparison in UHD (Chromecast Ultra)",
+        "description": "Comparison of HDR vs SDR using Last of Us. Buy a Chromecast Ultra for your 4K HDR TV: https://bhpho.to/2ry54y5\n\nBuy Last of Us: http://amzn.to/2sRYpDr\n\nThis comparison is not fair for the SDR side unless you use a 4K HDR TV and a device that supports YouTube HDR, such as Chromecast Ultra or *some* updated Samsung TVs.\n\nIf you watch this video in SDR then the comparison you are seeing is not correct!\n\nThe HDR side takes up more of the image. This is by choice.\n\nUsing The Last of Us PS4 Pro Patch 1.08\n\nSDR side was captured at 3840x2160p60 (4K60) YCbCr 4:2:0 BT.709 8-bit\n\nHDR side was captured at 3840x2160p60 (4K60) YCbCr 4:2:0 BT.2020 SMPTE ST 2084 8-bit",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7BSszwQiqlw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7BSszwQiqlw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7BSszwQiqlw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7BSszwQiqlw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7BSszwQiqlw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7BSszwQiqlw"
+        },
+        "videoOwnerChannelTitle": "The HDR Channel",
+        "videoOwnerChannelId": "UCve7_yAZHFNipzeAGBI5t9g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SAFah-_AJNe2ebAqe7kcXc5vjDU",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2016-12-11T01:30:16Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "Real 4K HDR Test Pattern: Brightness stress test (Chromecast Ultra)",
+        "description": "This test pattern tests  the maximum brightness of your display. This test pattern can only be viewed correctly using a 4K HDR TV that supports YouTube HDR. Such devices include 4K HDR TVs connected to a Chromecast Ultra or some Samsung TVs with updated firmware. If you are viewing this video on an SDR (normal non-HDR TV) this test video will not be displayed correctly.\n\nBuy a Chromecast Ultra for your 4K HDR TV: https://bhpho.to/2ry54y5\n\nThe test was designed to ramp up the brightness of a window of white pixels. Both the brightness and the size of the window increase throughout the test video. Except a single color grading studio monitor no other display available today can pass this test when the brightness reaches the highest levels OR when the window size takes over the majority of the screen.\n\nThe test pattern will display a white box that increases in size from 4%, 9%, 25%, 49%, up to 100% of the screen. Each time a new size box is shown the brightness of the box increases from 100, 400, 1000, 2000, up to 4000 nits. Each combination of window size and brightness will stay on the screen for 5 seconds.\n\nHere is how to tell when your display starts failing the test. Every 5 seconds the brightness of the window increases and stays at that brightness for the entire 5 seconds. Displays fail the test in two ways:\n\nFailure #1: At some point you will notice that when transitioning to a new brightness that the screen does not get much brighter than last time, or does not change brightness at all. This means the panel has reached maximum brightness and cannot go further. \n\nFailure #2: At some point (especially when the window sizes are bigger) you will see that when transitioning to a new brightness the screen momentarily gets brighter and then it drops down in brightness within less than a second. This happen if your TV has an Automatic Brightness Limiter (ABL), which restricts the maximum brightness in certain situations to either save on electricity cost or to protect the panel. You can read more about ABL online or visit a forum such as: http://www.avsforum.com/forum/40-oled-technology-flat-panels-general/1486433-automatic-brightness-limiter-technology-applies-crt-plasma-now-oled.html\n\nTVs handle brightness clipping in different ways. It is possible you will see transitions between brightness ranges that your TV should not be capable of. Trust your eyes to see if the difference in nits between transitions is actually as large as expected or not.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NlAsAuBtmps/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NlAsAuBtmps/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NlAsAuBtmps/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NlAsAuBtmps/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NlAsAuBtmps/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NlAsAuBtmps"
+        },
+        "videoOwnerChannelTitle": "The HDR Channel",
+        "videoOwnerChannelId": "UCve7_yAZHFNipzeAGBI5t9g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uQQ3DdJX0qiGdH5GXhc0yLsoeyk",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC5GNDg1Njc1QzZERjlFRjE5",
+      "snippet": {
+        "publishedAt": "2017-01-08T15:38:55Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "Real 4K HDR: Christmas Lights at the Zoo in HDR UHD (Chromecast Ultra)",
+        "description": "Video designed to test your 4K HDR TV's contrast and black level. filmed during WildLights at Woodland Park Zoo (Seattle, WA).\n\nBuy a Chromecast Ultra for your 4K HDR TV: https://bhpho.to/2ry54y5\n\nThis is an HDR Channel exclusive. \n\nTo view this video in real HDR you need a 4K HDR TV and a device with YouTube HDR such as Chromecast Ultra. YouTube HDR is also available on some Samsung TVs such as the KS7, KS8, and KS9 series with up-to-date firmware.\n\nIf you are viewing this video on an SDR (normal non-HDR TV) the color and contrast may not look correct.\n\nFilmed on Sony A6300 using a gimbal stabilizer in December 2016.\n\nCanon and Variation by Twin Musicom is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)\nArtist: http://www.twinmusicom.org/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E3Bf3mq1Or8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E3Bf3mq1Or8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E3Bf3mq1Or8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/E3Bf3mq1Or8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/E3Bf3mq1Or8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "E3Bf3mq1Or8"
+        },
+        "videoOwnerChannelTitle": "The HDR Channel",
+        "videoOwnerChannelId": "UCve7_yAZHFNipzeAGBI5t9g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Tx_EglDtlgp-vwUx6r-3O0QrZTE",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2016-11-16T07:06:23Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "The World in HDR in 4K (ULTRA HD)",
+        "description": "We worked closely with YouTube's engineering team the last few months to provide this HDR video of some of our favorite and some of our unseen footage from the the last 3 years. If you don't have an HDR display no worries, YouTube will automatically detect which type of display you are watching this on and down convert this video to SDR. FUTURE PROOFING AGAIN. 4K, 8K, HDR, YouTube is still leading the pack in allowing content creators to upload and future-proof their content for years to come. \n\nSong: Bytheway-May - Leaving the Old World\niTunes:  http://apple.co/1I7dyze\nAmazon: http://amzn.to/1HHGGNb\nSpotify: http://spoti.fi/1JRctgW\nThe Music Bed: http://bit.ly/1dBQBdp\n\nTo learn more about our journey on mastering and shooting in HDR please follow our blog: http://mysterybox.us/blog\n\nHDR VIDEO PART 1: WHAT IS HDR VIDEO?\nhttp://www.mysterybox.us/blog/2016/10/18/hdr-video-part-1-what-is-hdr-video\n\nHDR VIDEO PART 2: HDR VIDEO REFERENCE HARDWARE\nhttp://www.mysterybox.us/blog/2016/10/19/hdr-video-part-2-hdr-video-reference-hardware\n\nHDR VIDEO PART 3: HDR VIDEO TERMS EXPLAINED\nhttp://www.mysterybox.us/blog/2016/10/19/hdr-video-part-3-hdr-video-terms-explained\n\nHDR VIDEO PART 4: SHOOTING FOR HDR\nhttp://www.mysterybox.us/blog/2016/10/20/hdr-video-part-4-shooting-for-hdr\n\nHDR VIDEO PART 5: GRADING, MASTERING, AND DELIVERING HDR\nhttp://www.mysterybox.us/blog/2016/10/27/hdr-video-part-5-grading-mastering-and-delivering-hdr\n\n\nMake sure to follow us as well\n\nINSTAGRAM: http://www.instagram.com/jacobschwarz\nINSTAGRAM: http://www.instagram.com/mysteryboxfilm\n\n\n\nQuestion or business inquires: \ncontact@mysterybox.us\n\nContent is available for commercial licensing upon request.\n\nCopyright © 2016 Mystery Box, LLC. All Rights Reserved.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tO01J-M3g0U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tO01J-M3g0U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tO01J-M3g0U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tO01J-M3g0U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tO01J-M3g0U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tO01J-M3g0U"
+        },
+        "videoOwnerChannelTitle": "Jacob + Katie Schwarz",
+        "videoOwnerChannelId": "UCYq-iAOSZBvoUxvfzwKIZWA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TIxSZovCUumwqbsj9F3IPg3aIcs",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2016-11-16T07:06:28Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "The Redwoods | Shot on Epic-W with HELIUM 8K S35 Sensor 8K HDR",
+        "description": "\"The Redwoods\" shot by Jonny Mass and Spencer Davies follows one persons experiences as they adventure through the Redwood forest. Shot on an Red Epic-W with HELIUM 8K S35 sensor and Sigma Art series lenses, the short film showcases the sensor in some of the most dynamic lighting conditions in full 8K resolution.\n\nSocial Media:\nhttps://www.instagram.com/abandonvisuals/\nhttps://www.instagram.com/jonnymass/\nhttps://www.instagram.com/wspencerdavies/\nhttps://www.instagram.com/trespasserproductions/\n\nColor Grading by Mike Burton\n\nMusic: Cascade by MODE\nhttps://www.musicbed.com/songs/cascade/13073\n\nWebsite:\nhttp://www.abandonvisuals.com/\n\nFor Business Inquires: info@abandonvisuals.com\n\nAll footage from film is available for licensing.  \nhttps://www.filmsupply.com/collections/man-exploring-redwood-forest/1720?page=1",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9WrgRpOJr0I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9WrgRpOJr0I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9WrgRpOJr0I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9WrgRpOJr0I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9WrgRpOJr0I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9WrgRpOJr0I"
+        },
+        "videoOwnerChannelTitle": "Abandon Visuals",
+        "videoOwnerChannelId": "UC_vryjMWBZxYq9KS2LjfIZA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VeHxzCkNdTeG3c2ixeI6LtB47uE",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2016-11-16T07:06:33Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "The Underdog | Shot on WEAPON with HELIUM 8K S35 Sensor HDR 8K",
+        "description": "“The Underdog” from RED Digital Cinema and presented by Abandon Visuals is the story of an unnamed fighter and his quest to become the champion of an underground fight club. Shot on a WEAPON with HELIUM 8K S35 sensor and Leica Summicron–C lenses, the short film showcases a fighter as he prepares for his shot at glory. The state-of-art camera gives the viewer a front row seat to the fight with HELIUM’s best-in-class resolution and cinematic image quality.\n\nProduction House: Abandon Visuals\nDirector: Jonny Mass\nDP: Jared Fadel\nEditor: Edward Khoma\n\nSocial Media:\nhttps://www.instagram.com/abandonvisuals/\nhttps://www.instagram.com/jonnymass/\nhttps://www.instagram.com/thekhoma/\nhttps://www.instagram.com/jaredfadel/\n\n\nWebsite:\nhttp://www.abandonvisuals.com/\n\nFor Business Inquires: info@abandonvisuals.com\n\nFootage Licensing Inquires:\nhttps://www.filmsupply.com/collections/young-boxer-training/1440",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KPTEDkoI0ng/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KPTEDkoI0ng/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KPTEDkoI0ng/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KPTEDkoI0ng/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KPTEDkoI0ng"
+        },
+        "videoOwnerChannelTitle": "Abandon Visuals",
+        "videoOwnerChannelId": "UC_vryjMWBZxYq9KS2LjfIZA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RXT1hcQIIC1VS0x-yEvUwBSB5ZQ",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2016-11-16T07:06:38Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "TURNING POINT - short film (4K HDR) | Joe Penna",
+        "description": "Abandoned and exposed to a deadly disease, a young woman wakes up to discover she must survive the night alone.\n\nCheck out how this short film was made: http://bit.ly/TurningPointMakingOf\n\nMore videos: http://youtube.com/MysteryGuitarMan\n\nJoin us! http://bit.ly/JoinMGM\n\nVictoria - Jade Harlow \nCarson - George Capacete\nPaul - Michael Reed\nVoiceover Talent - Robert Sisko\n\nDirector - Joe Penna\n\nWritten by - Joe Penna & Ryan Morrison\n\nDirector of Photography - Jan-Michael Losada\n1st AC - Ryan Magrish\nG&E Swing - Daniel Gomez\nSwing - Alex Delvecchio\n  \nCamera Control - Jason Rau & Chris Toth\n  \nBehind The Scenes - Ruben Sarian\n  \nVideo Assist - Bobby Espinosa\n   \n1st AD - Ryan Morrison\nProduction Manager - Karolyn Szot\nMake-up - Caitlyn Brisbin\n  \nWardrobe & Props - Sarah Lund\n \nSet Design:\nProduction Designer - Hillary Gurtler\nArt Director - Chris Cafferty\nSet Decorator/ Scenic - Ethan Feldbau\nArt Assistant - Mike Gamms\nSet Dresser - Adrian Valenzula\nSet Dresser - Cameron Metz\nShopper - Priya Young\n\nSound Recordist & Re-recording Mixer - Terrence Mulhern\nFoley & Sound Design - Alexander Verbitskiy\nFoley Walker - Julie Buchanan\nEditor - Ryan Morrison\nComposer - Scott Stedman\nViolinist - Eneko Rodríguez\n\nColorist - Paul Byrne \n\nFancy Post:\nBill Macomber\nEleanor Nett\nAdam Hawkey\nDave Weinstein\n  \nYoutube Space LA:\nMahin Ibrahim  \nSahar Jahani  \nCourtney Chow  \nJeremy Kaye  \nTaylor Magenheim  \nLiam Collins   \nMichelle Slavich   \nBridget Humphrey   \nAndrew Fillmore   \n\nSkybound:\nRobert Kirkman  \nDavid Alpert  \nBryan And Sean Furst  \nGenevieve Jones  \nRachel Skidmore  \nMichael Cruz  \n  \nSpecial Thanks:\nByron Ashley  \nFrank Jung  \nCraig Brody  \nSarah Penna  \nGeena Davis  \nMadeline Di Nonno  \nErica Kraus  \nNick Veneroso  \nMichael Green  \nLana Mckissack   \nNathan Moore  \nLisa Bustamante  \nJackie Cavanagh  \nAndré Nemec  \nBrandwood Global  \nStephanie Weier  \nElianne Boutros  \nNicole Emanuele  \nbrightlight.solar\n\nSecret letter: N",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nHN92cVgmm0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nHN92cVgmm0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nHN92cVgmm0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nHN92cVgmm0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nHN92cVgmm0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nHN92cVgmm0"
+        },
+        "videoOwnerChannelTitle": "Joe Penna / MysteryGuitarMan",
+        "videoOwnerChannelId": "UCyoM9uxRbTtYoORWJPYWYyg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kmd0Lcfh9tkxw1yPo5HYekGhD6s",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2016-11-19T03:10:43Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "Helium Fire 8K UHD HDR (4320p) | Shot on RED HELIUM 8K S35 Sensor",
+        "description": "This  footage was captured in natively in 8K UHD (4320p) resolution with the brand new Red Helium 8K Super35mm sensor. All 8K content is available for commercial licensing upon request.\n\nWe are working alongside YouTube to post an HDR version of this video for all you that have a HDR Television and want to be blinded :-). \n\nKatie and I are really excited to be posting videos again on YouTube, we've always felt that YouTube was the perfect platform for us to share our passion for art and technology. YouTube has always been at the forefront of technology,  offering creators the options to upload and share their content in future-proof resolutions and specs.  People thought we were crazy for uploading our content nearly 6 years ago in 4K resolution. They claimed that 4K UltraHD was pointless because consumer UltraHD televisions and displays were too out of reach for the general public (they were even too expensive for us) but we believed, and still do, that future-proofing our art and making it available to all despite what the consumer trends are currently is a must for us.  Now, years later 4K UltraHD is the new norm and people have the option revisit our work and truly enjoy it in all of its 4K UltraHD glory on their SmartTVs. \n\nWe are very excited to have one of the first 8K cameras on the market and to share with everyone once again how we see the world now in 8K.  \n\n We were excited to work with Bryan Blaze with Phenomenal Fire on this project and really enjoyed sharing his passion for fire :-). Make sure to follow and check out more of his work here:\n\nhttp://facebook.com/PhenomenalFire\nhttp://instagram.com/PhenomenalFire\n\n\n\nMusic By Bytheway-May\nSong: From the Ashes\n\nThe Music Bed: http://bit.ly/1dBQBdp \niTunes:  http://apple.co/1I7dyze\nSpotify: http://spoti.fi/1JRctgW\n\n\nMake sure to follow us on Twitter and Instagram for BTS and sneak-peaks at upcoming projects. \n\nINSTAGRAM: http://www.instagram.com/jacobschwarz\n\nTech spec:\nRed Weapon LE w/Helium 8K s35 sensor (Stormtrooper33)\nZeiss Otus 28mm  \nZeiss Otus 55mm \nZeiss Otus 85mm\nZeiss Otus 15mm\nAdobe Premiere CC and DaVinci Resolve\n\nAll of our Zeiss Otus lens were modified by Duclos Lenses. The Zeiss Otus lens are some of the best lens on the market for resolving true 8K resolution on the Helium S35 sensor. \nCheck them out @ https://www.ducloslenses.com\n\nQuestion or business inquires: \ncontact@mysterybox.us\n\nAll 8K content is available for commercial licensing upon request.\n\nCopyright © 2016 Mystery Box, LLC. All Rights Reserved.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ygqzQ8XlHTM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ygqzQ8XlHTM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ygqzQ8XlHTM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ygqzQ8XlHTM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ygqzQ8XlHTM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ygqzQ8XlHTM"
+        },
+        "videoOwnerChannelTitle": "Jacob + Katie Schwarz",
+        "videoOwnerChannelId": "UCYq-iAOSZBvoUxvfzwKIZWA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "axhhk1otW8htDriff27lrc9Fx_0",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2016-11-19T03:12:29Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "Into the Cave of Wonders [Teaser - Shot in Real HDR Smpte 2084]",
+        "description": "HDR conversion processed by Tom Roper.\n***Full HDR shortfilm avaliable for licensing***\n\nTo watch the complete shortfilm in SDR go here: https://www.youtube.com/watch?v=BW61BoldgXE",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DfzSHCunpps/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DfzSHCunpps/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DfzSHCunpps/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DfzSHCunpps/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DfzSHCunpps/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DfzSHCunpps"
+        },
+        "videoOwnerChannelTitle": "LovetheFrame",
+        "videoOwnerChannelId": "UCgEUGDucz-ZwIFVPpLGlXvA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "22QDGQNQM1w8-B6DkLwP73i4h38",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2016-11-16T07:05:58Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "Pansonic GH4/Atomos Shogun Inferno HDR 4K Video: New England Forest in Late Fall",
+        "description": "Shot in 4K Vlog L in 10bit 4:2:2 Pro Res HQ. Graded in Resolve and output as DNxHR 4:4:4. Metadata injected using mkvmerge.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9WRW3f8ZGWQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9WRW3f8ZGWQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9WRW3f8ZGWQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9WRW3f8ZGWQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9WRW3f8ZGWQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9WRW3f8ZGWQ"
+        },
+        "videoOwnerChannelTitle": "markr041",
+        "videoOwnerChannelId": "UCDLUw9hRcWSrBQ0EQSP9XVg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xtiZS9XW3E6PmOLz6g1jSFBoPoU",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2016-11-23T15:47:29Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "Panasonic GH4/Shogun Inferno HDR 4K Video: Edgerton Park in Late Fall Afternoon",
+        "description": "Lumix 12-35mm f2.8 lens, 8X ND filter. 10bit Vlog L, graded in Resolve 12.5.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1X3Lq1HZJ-c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1X3Lq1HZJ-c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1X3Lq1HZJ-c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1X3Lq1HZJ-c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1X3Lq1HZJ-c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1X3Lq1HZJ-c"
+        },
+        "videoOwnerChannelTitle": "markr041",
+        "videoOwnerChannelId": "UCDLUw9hRcWSrBQ0EQSP9XVg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "johI6tua1fr001ZkFudalP1zaUc",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2016-11-24T18:34:21Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "Panasonic GH4/Shogun Inferno 4K HDR Video: A Window on Fall",
+        "description": "Lumix 12-35 f2.8 lens, ND fllter. Shot using Vlog L, graded in Resolve.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PXIobCOGQ6I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PXIobCOGQ6I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PXIobCOGQ6I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PXIobCOGQ6I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PXIobCOGQ6I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PXIobCOGQ6I"
+        },
+        "videoOwnerChannelTitle": "markr041",
+        "videoOwnerChannelId": "UCDLUw9hRcWSrBQ0EQSP9XVg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ABdEwNcVZJorw-CRH6cXXYwOzA8",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2016-12-04T22:17:42Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "ChromeCast1000P3b",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/309hOx0Dvxk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/309hOx0Dvxk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/309hOx0Dvxk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/309hOx0Dvxk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/309hOx0Dvxk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "309hOx0Dvxk"
+        },
+        "videoOwnerChannelTitle": "pmw350k",
+        "videoOwnerChannelId": "UCce-YiN8BfQWjzvs72uRPWQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4j2akwWjE5L-42YrAIHaV2iFsOM",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2016-12-04T22:18:04Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "YouTube HDR ChromeCast Ultra Presentation",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aQ8k3bBs49g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aQ8k3bBs49g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aQ8k3bBs49g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aQ8k3bBs49g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aQ8k3bBs49g"
+        },
+        "videoOwnerChannelTitle": "pmw350k",
+        "videoOwnerChannelId": "UCce-YiN8BfQWjzvs72uRPWQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vJiI9T1jJ76ygaWWHDXq9tIjxfw",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC4zRDBDOEZDOUM0MDY5NEEz",
+      "snippet": {
+        "publishedAt": "2016-12-04T22:18:24Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "UHD HDR Done Correctly",
+        "description": "Real HDR Done Correctly, UHD 3840x2160/p30, shot with Sony PMW-F55 S-Log2 S-gamut, Sony 35mm PL cinema prime, 10 bit, ST.2084 PQ-EOTF 1000 Nits, Rec.2020",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G-PDD2ztAFA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G-PDD2ztAFA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G-PDD2ztAFA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "G-PDD2ztAFA"
+        },
+        "videoOwnerChannelTitle": "pmw350k",
+        "videoOwnerChannelId": "UCce-YiN8BfQWjzvs72uRPWQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EIEdWY1aiWjBjooVL8VKpq4KxvE",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2016-12-09T03:10:14Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "Grays Peak, Torreys Peak, Echo Lake, Georgetown, Colorado - Real 4K HDR - Chromecast Ultra ST.2084",
+        "description": "Grays Peak, Torreys Peak, Echo Lake, Georgetown, Colorado.\nShot in 4K HDR. Viewing HDR in YouTube requires either the Google Chromecast Ultra dongle or a 2016 Samsung SUHD with current firmware.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FFaBMUiNTYE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FFaBMUiNTYE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FFaBMUiNTYE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FFaBMUiNTYE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FFaBMUiNTYE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FFaBMUiNTYE"
+        },
+        "videoOwnerChannelTitle": "pmw350k",
+        "videoOwnerChannelId": "UCce-YiN8BfQWjzvs72uRPWQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4EZCkIi3gsBIWN3A4nO7XUDSDeU",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC4zQzFBN0RGNzNFREFCMjBE",
+      "snippet": {
+        "publishedAt": "2017-01-08T15:50:32Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "Best for HDR since 2010",
+        "description": "With unsurpassed dynamic range and natural, accurate colour rendition, ARRI cameras have offered the best solution for HDR capture and display since the launch of ALEXA in 2010.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bwYH05X5y2M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bwYH05X5y2M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bwYH05X5y2M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bwYH05X5y2M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bwYH05X5y2M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bwYH05X5y2M"
+        },
+        "videoOwnerChannelTitle": "ARRIChannel",
+        "videoOwnerChannelId": "UCtdsiPRhmJoOrhvnFOyVxeQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LBpfXqDuruEYTdZvwRcBX0mNuIg",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC45NkVENTkxRDdCQUFBMDY4",
+      "snippet": {
+        "publishedAt": "2017-01-10T08:29:15Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "New York City 21:9 8k HDR // Relaxation Film",
+        "description": "The video shows the city in one of its less frenetic times of the year - around Christmas - but this city never sleeps.  4k, 8k, HDR … technology is developing rapidly - and so is time lapse and timelapse production. Which city could better fit as a place for that technical demo, if not Big Apple - New York 4k. \n\nInstagram: http://instagram.com/ronald_soethje\nWebsite: http://www.soethje.com\n\nEnjoy our first technical preview of a series of ultra high definition clips in more than 4k HDR. Your TV set has to support 4k HDR and the Youtube App on it must support HDR-delivery. At the moment the best way is Googles Chromecast Ultra. \n\nThis 8k timelapse was produced with cameras with more than 42 Megapixels and enough dynamic range to produce REAL High Dynamic Range - HDR - footage. \n\nThe next journey already started (oh, to be honest, it started a year ago and is now in postproduction …) and we will come back soon with another 8k HDR adventure.\n\nThanks for the fantastic soundtrack and mix to Kriz Mental for this 8K / 4K / UHD timelapse. Thanks to Alex for the title design and for polishing the graphics for this time lapse again. Thanks to Stef for her support to realize this New York 4k timelapse.\n\nMany thanks to all of you for supporting this project - not with money - but for building such great hard- and software! Thanks to @emotimo and @dynamicperception for your great time-lapse tools and especially LR Timelapse for postproduction. Final editing with Adobe Premiere Pro and 8k HDR Grading with Blackmagic Design DaVinci Resolve. Title design with Adobe After Effects.\n\n#NewYork #Christmas #BigApple #HDR #21:9 #New_York",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0asvzeLD8a8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0asvzeLD8a8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0asvzeLD8a8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0asvzeLD8a8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0asvzeLD8a8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0asvzeLD8a8"
+        },
+        "videoOwnerChannelTitle": "Ronald Soethje",
+        "videoOwnerChannelId": "UCE2Y1gt3hzYO8VMHwrNprkQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yuwOno1h1-dv81aWrsu9SeKcwE8",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC5DNkMwRUI2MkI4QkI4NDFG",
+      "snippet": {
+        "publishedAt": "2017-01-19T18:51:11Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "Real 4K HDR: Los Angeles Sunset in HDR UHD (Chromecast Ultra)",
+        "description": "Los Angeles sunset filmed from Angels Point in January 2017 using Sony A6300. Buy a Chromecast Ultra for your 4K HDR TV: https://bhpho.to/2ry54y5\n\nTo view this video in real HDR you need a 4K HDR TV and a device with YouTube HDR such as Chromecast Ultra. YouTube HDR is also available on some Samsung TVs such as the KS7, KS8, and KS9 series with up-to-date firmware.\n\nIf you are viewing this video on an SDR (normal non-HDR TV) the color and contrast may not look correct.\n\nLaserdisc by Chris Zabriskie is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)\nSource: http://chriszabriskie.com/honor/\nArtist: http://chriszabriskie.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KeRSm60pbvo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KeRSm60pbvo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KeRSm60pbvo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KeRSm60pbvo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KeRSm60pbvo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KeRSm60pbvo"
+        },
+        "videoOwnerChannelTitle": "The HDR Channel",
+        "videoOwnerChannelId": "UCve7_yAZHFNipzeAGBI5t9g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "e4b-X085oCFrf8AewEbjRRqO0Ew",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC5DRUQwODMxQzUyRTlGRkY3",
+      "snippet": {
+        "publishedAt": "2017-01-21T18:50:34Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "Real 4K HDR: Tears of Steel in HDR UHD (Chromecast Ultra)",
+        "description": "This version of Tears of Steel has been created starting from the 16 bit individual TIFF movie frames that have a resolution of 4096x1714. The size of the source files is 597 GB! We have graded the HDR version at 1,000 nits in DaVinci Resolve Studio. Please see the description below for more details about the movie.\n\nBuy a Chromecast Ultra for your 4K HDR TV: https://bhpho.to/2ry54y5\n\nTo view this video in real HDR you need a 4K HDR TV and a device with YouTube HDR such as Chromecast Ultra. YouTube HDR is also available on some Samsung TVs such as the KS7, KS8, and KS9 series with up-to-date firmware.\n\nIf you are viewing this video on an SDR (normal non-HDR TV) the color and contrast may not look correct.\n\nTears of Steel (2012)\n\nLicensed under Creative Commons Attribution.\n\nDuration: 12 minutes.\nLanguage: English spoken\nProduction: Blender Institute\nProducer: Ton Roosendaal\nDirector & Writer: Ian Hubert\nDirector of Photography: Joris Kerbosch\nComposer: Joram Letwory\n\nStarring: Derek de Lint, Sergio Hasselbaink, Rogier Schippers, Vanja Rukavina, Denise Rebergen, Jody Bhe. Chris Haley\n\nCG Crew: Andreas Goralczyk, David Revoy, Francesco Siddi, Jeremy Davidson, Kjartan Tysdal, Nicolo Zubbini, Rob Tuytel, Roman Volodin, Sebastian Koenig, Brecht van Lommel, Campbell Barton, Sergey Sharybin.\n\nProject funding: Blender Foundation, Netherlands Film Fund, Cinegrid Amsterdam.\nPremium Sponsor: Google. Main Sponsors: NVIDIA, Hewlett-Packard Workstations, Camalot AV Services, BlenderGuru.\n\n“Tears of Steel” is a short film made in Amsterdam the Netherlands by the Blender Institute, well known for realizing the open source short animation movies “Big Buck Bunny” (2008) and “Sintel” (2010). As usual these films get financing by crowd-funding in online communities of 3D artists and animators.\nFor “Tears of Steel” the funding target was to explore a complete open source pipeline for producing a high quality visual effect film, with as theme “Science Fiction in Amsterdam”.\n\nProducer Ton Roosendaal invited young Seattle talent Ian Hubert to come working in Amsterdam for 7 months to write and direct the film – assisted in Blender Institute’s studio by an international team of 3d and vfx artists, and with a Dutch film crew and Dutch actors.\n\nThe film’s premise is about a group of warriors and scientists, who gathered at the “Oude Kerk” in Amsterdam to stage a crucial event from the past, in a desperate attempt to rescue the world from destructive robots.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V9Ipg2jA9cg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V9Ipg2jA9cg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V9Ipg2jA9cg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/V9Ipg2jA9cg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/V9Ipg2jA9cg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "V9Ipg2jA9cg"
+        },
+        "videoOwnerChannelTitle": "The HDR Channel",
+        "videoOwnerChannelId": "UCve7_yAZHFNipzeAGBI5t9g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sYq7ihWIH9R6l6aCCfdJ9m6pAc0",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC41MzY4MzcwOUFFRUU3QzEx",
+      "snippet": {
+        "publishedAt": "2017-01-27T23:57:02Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "Real 4K HDR: NASA Jeff's Earth 4K in HDR UHD (Chromecast Ultra)",
+        "description": "The first time you see Planet Earth from space, it’s stunning; when you’ve spent 534 days in space—more than any other American—it still is! On his most recent trip the International Space Station NASA astronaut Jeff Williams used an Ultra High Definition video camera that he pointed at the planet 250 miles below; here he shares some of those images, and talks about the beauty of the planet, the variety of things to see, and the value of sharing that perspective with everyone who can’t go to orbit in person.\n\nBuy a Chromecast Ultra for your 4K HDR TV: https://bhpho.to/2ry54y5\n\nTo view this video in real HDR you need a 4K HDR TV and a device with YouTube HDR such as Chromecast Ultra. YouTube HDR is also available on some Samsung TVs such as the KS7, KS8, and KS9 series with up-to-date firmware.\n\nIf you are viewing this video on an SDR (normal non-HDR TV) the color and contrast may not look correct.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/akVDRSPl7gw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/akVDRSPl7gw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/akVDRSPl7gw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/akVDRSPl7gw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/akVDRSPl7gw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "akVDRSPl7gw"
+        },
+        "videoOwnerChannelTitle": "The HDR Channel",
+        "videoOwnerChannelId": "UCve7_yAZHFNipzeAGBI5t9g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TF9NSpadsFFVVfdBHyqr1h4sAgQ",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC4yQjZFRkExQjFGODk3RUFD",
+      "snippet": {
+        "publishedAt": "2017-01-28T18:40:32Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "Real 4K HDR: Turda Salt Mine aka Salina de la Turda in HDR UHD (Chromecast Ultra)",
+        "description": "The Turda Salt Mine (Salina de la Turda) was the most popular tourist attraction of 2016 in Romania. This video is designed to test your 4K HDR TV's contrast and black level.\n\nBuy a Chromecast Ultra for your 4K HDR TV: https://bhpho.to/2ry54y5\n\nThis is an HDR Channel exclusive. \n\nFilmed in December 2016 using Sony A6300 and a gimbal stabilizer.\n\nTo view this video in real HDR you need a 4K HDR TV and a device with YouTube HDR such as Chromecast Ultra. YouTube HDR is also available on some Samsung TVs such as the KS7, KS8, and KS9 series with up-to-date firmware.\n\nIf you are viewing this video on an SDR (normal non-HDR TV) the color and contrast may not look correct.\n\nHeart of Nowhere by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)\nSource: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400045\nArtist: http://incompetech.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wFJfpaUl1pg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wFJfpaUl1pg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wFJfpaUl1pg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wFJfpaUl1pg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wFJfpaUl1pg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wFJfpaUl1pg"
+        },
+        "videoOwnerChannelTitle": "The HDR Channel",
+        "videoOwnerChannelId": "UCve7_yAZHFNipzeAGBI5t9g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WY_doO_v7kzFlhcMpr542JEiw4Q",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC4yQUJFNUVCMzVDNjcxRTlF",
+      "snippet": {
+        "publishedAt": "2017-02-01T02:37:38Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "Real 4K HDR: Sintel in HDR UHD (Chromecast Ultra)",
+        "description": "\"Sintel\" is an independently produced short film, initiated by the Blender Foundation as a means to further improve andvalidate the free/open source 3D creation suite Blender. \"Sintel\" is licensed as Creative Commons Attribution 3.0.\n\nBuy a Chromecast Ultra for your 4K HDR TV: https://bhpho.to/2ry54y5\n\nTo view this video in real HDR you need a 4K HDR TV and a device with YouTube HDR such as Chromecast Ultra. YouTube HDR is also available on some Samsung TVs such as the KS7, KS8, and KS9 series with up-to-date firmware.\n\nIf you are viewing this video on an SDR (normal non-HDR TV) the color and contrast may not look correct.\n\nThis 15 minute film has been realized in the studio of the Amsterdam Blender Institute, by an international team of artists and developers. In addition to that, several crucial technical and creative targets have been realized online, by developers and artists and teams all over the world.\n\n© copyright Blender Foundation https://durian.blender.org/about/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qR5vOXbZsI4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qR5vOXbZsI4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qR5vOXbZsI4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qR5vOXbZsI4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qR5vOXbZsI4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qR5vOXbZsI4"
+        },
+        "videoOwnerChannelTitle": "The HDR Channel",
+        "videoOwnerChannelId": "UCve7_yAZHFNipzeAGBI5t9g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pZt0SO_EzTY1X3RLtqDGRF5EGkA",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC41RTNBREYwMkI5QzU3RkY2",
+      "snippet": {
+        "publishedAt": "2017-02-05T05:55:28Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "Real 4K HDR: Star Trek Beyond HDR Review and general HDR information (Chromecast Ultra)",
+        "description": "This is a technical HDR analysis of the Star Trek Beyond 4K Blu-Ray disk. This video took us a lot of time and effort to put together, so we hope you enjoy it.\n\nBuy it from Amazon: http://amzn.to/2qQHxvs (affiliate link)\n\nBuy a Chromecast Ultra for your 4K HDR TV: https://bhpho.to/2ry54y5\n\nBefore you ask, YES the images and graphs are based on the 4K Blu-Ray disk, and NOT the 1080p disk.\n\nTo view this video in real HDR you need a 4K HDR TV and a device with YouTube HDR such as Chromecast Ultra. YouTube HDR is also available on some Samsung TVs such as the KS7, KS8, and KS9 series with up-to-date firmware.\n\nIf you are viewing this video on an SDR (normal non-HDR TV) the color and contrast may not look correct.\n\nHere are some excellent technical articles about HDR video:\n\n4K Blu-ray vs Blu-ray Reveals HDR Is Too Dim for Daytime - http://www.hdtvtest.co.uk/news/4k-vs-201604104279.htm\n\nUHDTV - HDR, HLG & WCG - http://www.lightillusion.com/uhdtv.html\n\nHDR, Resolve, and Creative Grading - http://vanhurkman.com/wordpress/?p=3548\n\nHDR Video Part 5: Grading, Mastering, and Delivering HDR (see section on MAXFALL) - http://www.mysterybox.us/blog/2016/10/27/hdr-video-part-5-grading-mastering-and-delivering-hdr (see section on MAXFALL)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ebf2Oi23Pw0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ebf2Oi23Pw0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ebf2Oi23Pw0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ebf2Oi23Pw0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ebf2Oi23Pw0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ebf2Oi23Pw0"
+        },
+        "videoOwnerChannelTitle": "The HDR Channel",
+        "videoOwnerChannelId": "UCve7_yAZHFNipzeAGBI5t9g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "E5_nAPtZ90XO2f2jboDKmhRrLqA",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC5ENjI1QUI0MDI5NEQzODFE",
+      "snippet": {
+        "publishedAt": "2017-02-11T00:35:08Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "Real 4K HDR: Weekend in Los Angeles HDR UHD (Chromecast Ultra)",
+        "description": "Filmed in January 2017 over a weekend in Los Angeles. Filmed on Sony A6300 using a gimbal stabilizer.\n\nBuy a Chromecast Ultra for your 4K HDR TV: https://bhpho.to/2ry54y5\n\nThis is an HDR Channel exclusive. \n\nTo view this video in real HDR you need a 4K HDR TV and a device with YouTube HDR such as Chromecast Ultra. YouTube HDR is also available on some Samsung TVs such as the KS7, KS8, and KS9 series with up-to-date firmware.\n\nIf you are viewing this video on an SDR (normal non-HDR TV) the color and contrast may not look correct.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mXU4H_oP0eg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mXU4H_oP0eg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mXU4H_oP0eg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mXU4H_oP0eg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mXU4H_oP0eg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mXU4H_oP0eg"
+        },
+        "videoOwnerChannelTitle": "The HDR Channel",
+        "videoOwnerChannelId": "UCve7_yAZHFNipzeAGBI5t9g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JsAk72JOEsSWuyaie8nR3ciQU5Y",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC44QzVGQUU2QjE2NDgxM0M4",
+      "snippet": {
+        "publishedAt": "2017-02-11T18:25:06Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "Australia 21:9 8k HDR // Relaxation Film",
+        "description": "Nothing happens unless first a dream - Carl Sandburg\n\nIf you would ask me, what influenced me most, when I was a teenager, I would mention this quote of Carl Sandburg. It was printed on a poster of Uluṟu, which was called Ayers Rock in the 1990s outside of Australia. For over ten years that poster was hanging around and I had seen it every day. It is not surprising that the wish to travel to Down Under became stronger each year. Finally in 2010 I did my first trip to Australia, a further trip followed.\n\nAnd I returned again in 2015 - this time I wanted to bring back something for everybody staying at home - Australia’s Nature. Incredible coast lines like the Twelve Apostel, Byron Bay, Cape Conran (Thanks Helmut :), Queensland coast from Daintree to Gold Coast and the outback with simply nothing for thousands of kilometers and than suddenly the Uluṟu or the Devil Marbles.\n\nInstagram: http://instagram.com/ronald_soethje\nWebsite: http://www.soethje.com\n\nMany trips starting and ending in the big cities of Australia - but you haven’t been to Australia, if you just stay there. It is not all about Brisbane, Sydney and Melbourne …. you have to go out and experience that continent on your own. The film starts and ends in the cities, but between you will see what you could see in three weeks of that amazing land. We couldn’t be everywhere, but one day we will return and perhaps we will bring you another piece of nature from Down Under.\n\nThe outcome of the last trip is a 8k time-lapse in true HDR. Not that tone-mapping thing - it is real HDR for the highest resolution displays available today.\n\nEnjoy our second preview of a series of ultra high definition clips in more than 4k HDR. Your TV set has to support 4k HDR and the Youtube App on it must support HDR-delivery. At the moment one of the best ways is Googles Chromecast Ultra or a Samsung Display with Youtube HDR App. \n\nThis 8k timelapse was produced with cameras with 50 Megapixels and enough dynamic range to produce REAL High Dynamic Range - HDR - footage. \n\nThanks for the fantastic soundtrack and mix to Kriz Mental for this 8K / 4K / UHD timelapse. Thanks to Alex for the title design and for polishing the graphics for this time lapse again. Thanks to Stef for her support to realize this Australia timelapse.\n\n#Australia #DownUnder #HDR #8k #21:9 #Timelapse #Australien #Australis",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ISJMsVhY5Yk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ISJMsVhY5Yk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ISJMsVhY5Yk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ISJMsVhY5Yk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ISJMsVhY5Yk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ISJMsVhY5Yk"
+        },
+        "videoOwnerChannelTitle": "Ronald Soethje",
+        "videoOwnerChannelId": "UCE2Y1gt3hzYO8VMHwrNprkQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "i5VAyL4NJRTVkva0ntyfRk8Vrys",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC4xMzgwMzBERjQ4NjEzNUE5",
+      "snippet": {
+        "publishedAt": "2017-02-17T07:30:27Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "Real 4K HDR: Arrival 4K Blu-Ray HDR Review (Chromecast Ultra)",
+        "description": "This is a technical HDR analysis of the Arrival 4K Blu-Ray disk. This review again took quite a long time to produce, so we hope you enjoy it. Buy it from Amazon: http://amzn.to/2piAtHJ (affiliate link)\n\nBuy a Chromecast Ultra for your 4K HDR TV: https://bhpho.to/2ry54y5\n\nBefore you ask, YES the images and graphs are based on the 4K Blu-Ray disk, and NOT the 1080p disk.\n\nOur first HDR review for Star Trek Beyond - https://www.youtube.com/watch?v=Ebf2Oi23Pw0\nDI Colorist Joe Gawler on the Thoughtful Sci-Fi Epic Arrival - http://www.studiodaily.com/2017/02/di-colorist-joe-gawler-on-the-thoughtful-sci-fi-epic-arrival/\nArrival 4K discussion in the Blu-Ray.com forums - http://forum.blu-ray.com/showthread.php?t=284652&page=21\n\nTo view this video in real HDR you need a 4K HDR TV and a device with YouTube HDR such as Chromecast Ultra. YouTube HDR is also available on some Samsung TVs such as the KS7, KS8, and KS9 series with up-to-date firmware.\n\nIf you are viewing this video on an SDR (normal non-HDR TV) the color and contrast may not look correct.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z48RV2REAnA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z48RV2REAnA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z48RV2REAnA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Z48RV2REAnA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Z48RV2REAnA"
+        },
+        "videoOwnerChannelTitle": "The HDR Channel",
+        "videoOwnerChannelId": "UCve7_yAZHFNipzeAGBI5t9g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PkbQnK_HQjkaYi75DWjjYxmDgLs",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC4zMEQ1MEIyRTFGNzhDQzFB",
+      "snippet": {
+        "publishedAt": "2017-02-21T04:07:19Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "REAL 4K HDR: Aquaballs HDR UHD (Chromecast Ultra) Demo, 10 Bit",
+        "description": "Aquaballs with nice reflections.\nReal 4K / Ultra HD HDR 10 Bit demo material. \n(c) Florian Friedrich | FF.de\n3840x2160 pixels.\nMastered for DCI P3 in a BT.2020 container using ST.2084 EOTF \n\nHDR Metadata injected and video signal analysis with HDRmaster.com (Windows software tool)\n\nAudio Licensed from Audio Network GmbH",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XN01Vv_69bg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XN01Vv_69bg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XN01Vv_69bg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XN01Vv_69bg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XN01Vv_69bg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XN01Vv_69bg"
+        },
+        "videoOwnerChannelTitle": "Florian Friedrich",
+        "videoOwnerChannelId": "UCl-chy8llkxCpTBX2Ote8gQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dbQt4jx5vAyxi88RM1WrV7_rZ5I",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC42Qzk5MkEzQjVFQjYwRDA4",
+      "snippet": {
+        "publishedAt": "2017-02-21T04:07:53Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "Real UHD HDR 10 Combination Test Pattern, luminance levels and primary colors (chromecast ultra)",
+        "description": "This combination test pattern contains different levels of luminance as well as saturated color patches.\n\nIt is a sample file for my software tools AVTOPcontroller (HDMI HDR metadata injection), SEIedit.com (HEVC metadata injection) and HDRmaster.com (H.264 & H.265 metadata injection and signal analysis).\n\nThe top part contains 5 patches near black (0.01 nit, 0.02 nit, 0.03 nit, 0.04 nit, 0.05 nit).\n\nThe middle part contains 5 patches for different peak luminance levels (500nit, 1000nit, 2000nit, 4000nit, 10000nit and a area with grey steps).\n\nThe lower part carries three patches with fully saturated primary colors (red, green, blue) at 75% level.\n\nOn a HDR TV, you should see a difference between 500nit and 1000nit patches.\n\nOn a SDR TV, the tonemapping by youtube might desaturate the primary colors and the brightness patches might look the same.\n\n\nYoutube metadata injection and signal analysis made with HDRmaster.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XEtUF7RT3pw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XEtUF7RT3pw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XEtUF7RT3pw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XEtUF7RT3pw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XEtUF7RT3pw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XEtUF7RT3pw"
+        },
+        "videoOwnerChannelTitle": "Florian Friedrich",
+        "videoOwnerChannelId": "UCl-chy8llkxCpTBX2Ote8gQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "m5nk6nWJsnturBERqBqRIghfgQI",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC41NTZEOThBNThFOUVGQkVB",
+      "snippet": {
+        "publishedAt": "2017-02-22T17:01:46Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "HDR test footage",
+        "description": "Try 9, try 2.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ss75O8yllyc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ss75O8yllyc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ss75O8yllyc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ss75O8yllyc"
+        },
+        "videoOwnerChannelTitle": "Steven Robertson",
+        "videoOwnerChannelId": "UCVbHQogIMQ8wJNpEJsV-nNQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HjxQgrZCul2e6cSkc1gQHg8peis",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC43NERCMDIzQzFBMERCMEE3",
+      "snippet": {
+        "publishedAt": "2017-02-24T02:30:09Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "Real 4K HDR: Uncharted 4 in HDR UHD - Drake has a bad day (Chromecast Ultra)",
+        "description": "Uncharted 4: A Thief's End in HDR captured from a PS4 Pro in HDR, with a bitrate of 415 Mbps. The game engine renders at 1440p and the PS4 Pro upscales it to 4K. This is our second video game capture in HDR. Uncharted 4 sold more than 8.7 million copies in 2016. The game sold over 2.7 million copies in its first week of release, and became the fastest-selling entry in the series, as well as the best-selling PlayStation 4 video game.\n\nBuy Uncharted 4: A Thief's End from http://amzn.to/2trGoZK\n\nBuy a Chromecast Ultra for your 4K HDR TV: https://bhpho.to/2ry54y5\n\nTo view this video in real HDR you need a 4K HDR TV and a device with YouTube HDR such as Chromecast Ultra. YouTube HDR is also available on some Samsung TVs such as the KS7, KS8, and KS9 series with up-to-date firmware.\n\nIf you are viewing this video on an SDR (normal non-HDR TV) the color and contrast may not look correct.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5cNBhTGfCDY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5cNBhTGfCDY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5cNBhTGfCDY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5cNBhTGfCDY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5cNBhTGfCDY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5cNBhTGfCDY"
+        },
+        "videoOwnerChannelTitle": "The HDR Channel",
+        "videoOwnerChannelId": "UCve7_yAZHFNipzeAGBI5t9g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pBmjqY6xn0qNLoOO4JqwvNNcIA8",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC5GNjAwN0Y0QTFGOTVDMEMy",
+      "snippet": {
+        "publishedAt": "2017-03-01T14:43:11Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "Real 4K HDR: Horizon Zero Dawn Intro in HDR UHD (Chromecast Ultra)",
+        "description": "Horizon: Zero Dawn intro clips captured from a PS4 Pro in HDR at 500 Mbps. This is the boldest usage of HDR we have seen in a game engine so far, with some scenes having brightness of 2000 nits and beyond. The engine uses the checkerboard rendering technique to render at 4K/UHD resolution.\n\nBuy Horizon: Zero Dawn from http://amzn.to/2sOdXHl\n\nBuy a Chromecast Ultra for your 4K HDR TV: https://bhpho.to/2ry54y5\n\nTo view this video in real HDR you need a 4K HDR TV and a device with YouTube HDR such as Chromecast Ultra. YouTube HDR is also available on some Samsung TVs such as the KS7, KS8, and KS9 series with up-to-date firmware.\n\nIf you are viewing this video on an SDR (normal non-HDR TV) the color and contrast may not look correct.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pZvphjRu8bE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pZvphjRu8bE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pZvphjRu8bE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pZvphjRu8bE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pZvphjRu8bE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pZvphjRu8bE"
+        },
+        "videoOwnerChannelTitle": "The HDR Channel",
+        "videoOwnerChannelId": "UCve7_yAZHFNipzeAGBI5t9g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "If9q0gkL8NmBO4NWBMlkDQthCys",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC4wRjhFM0MxMTU1MEUzQ0VB",
+      "snippet": {
+        "publishedAt": "2017-04-04T14:58:41Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "Real 4K HDR: Tokyo Timelapse from Mori Tower in HDR UHD (Chromecast Ultra)",
+        "description": "Tokyo sunset and urban timelapses filmed from Mori Tower using Sony A6300 (S-Log3) and Atomos Ninja Flame in March 2017. Color grading and noise reduction in DaVinci Resolve Studio.\n\nBuy a Chromecast Ultra for your 4K HDR TV: https://bhpho.to/2ry54y5\n\nThis is an HDR Channel exclusive dedicated to darwinfish105, who inspired me to travel to Japan to make these videos.\n\nTo view this video in real HDR you need a 4K HDR TV and a device with YouTube HDR such as Chromecast Ultra. YouTube HDR is also available on some Samsung TVs such as the KS7, KS8, and KS9 series with up-to-date firmware.\n\nIf you are viewing this video on an SDR (normal non-HDR TV) the color and contrast may not look correct.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nkR3kKC0g94/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nkR3kKC0g94/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nkR3kKC0g94/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nkR3kKC0g94/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nkR3kKC0g94/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nkR3kKC0g94"
+        },
+        "videoOwnerChannelTitle": "The HDR Channel",
+        "videoOwnerChannelId": "UCve7_yAZHFNipzeAGBI5t9g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0Fgx1Qtv3l28EwJn-n0oJPGDp18",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC5CNTcxMDQ0NThBNzMxODYz",
+      "snippet": {
+        "publishedAt": "2017-04-16T23:27:35Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "Real 4K HDR 60fps: Kyoto Tower and Kyoto station in HDR UHD (Chromecast Ultra)",
+        "description": "Kyoto Tower and Kyoto station timelapse filmed using Sony A6300 (S-Log3) and Atomos Ninja Flame in March 2017.\n\nBuy a Chromecast Ultra for your 4K HDR TV: https://bhpho.to/2ry54y5\n\nThis is an HDR Channel exclusive.\n\nTo view this video in real HDR you need a 4K HDR TV and a device with YouTube HDR such as Chromecast Ultra. YouTube HDR is also available on some Samsung TVs such as the KS7, KS8, and KS9 series with up-to-date firmware.\n\nIf you are viewing this video on an SDR (normal non-HDR TV) the color and contrast may not look correct.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UHTo0tmdEB0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UHTo0tmdEB0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UHTo0tmdEB0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UHTo0tmdEB0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UHTo0tmdEB0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UHTo0tmdEB0"
+        },
+        "videoOwnerChannelTitle": "The HDR Channel",
+        "videoOwnerChannelId": "UCve7_yAZHFNipzeAGBI5t9g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "X-pTFmUQiyZsd25lyc3VSa9PBuo",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC5ERkUyQTM0MzEwQjZCMTY5",
+      "snippet": {
+        "publishedAt": "2017-04-18T15:07:11Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "Real 4K HDR: Tokyo Akihabara Electric Town in HDR UHD (Chromecast Ultra)",
+        "description": "Tokyo Akihabara Electric Town streets filmed using Sony A6300 (S-Log3). Buy a Chromecast Ultra for your 4K HDR TV: https://bhpho.to/2ry54y5\n\nThis is an HDR Channel exclusive.\n\nMusic: noel (2010) by HIROUMI / cc-sa / cc-by\nhttps://www.jamendo.com/track/601272/noel\n\nTo view this video in real HDR you need a 4K HDR TV and a device with YouTube HDR such as Chromecast Ultra. YouTube HDR is also available on some Samsung TVs such as the KS7, KS8, and KS9 series with up-to-date firmware.\n\nIf you are viewing this video on an SDR (normal non-HDR TV) the color and contrast may not look correct.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Qgo4AYXGAV0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Qgo4AYXGAV0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qgo4AYXGAV0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Qgo4AYXGAV0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Qgo4AYXGAV0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Qgo4AYXGAV0"
+        },
+        "videoOwnerChannelTitle": "The HDR Channel",
+        "videoOwnerChannelId": "UCve7_yAZHFNipzeAGBI5t9g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WxPles0OrKcyedzq5_OwyXL0C7U",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC4xM0YyM0RDNDE4REQ1NDA0",
+      "snippet": {
+        "publishedAt": "2017-04-23T16:16:43Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "Real 4K HDR: Planet Earth II HDR Review (Chromecast Ultra)",
+        "description": "This is a technical HDR review of the Planet Earth 2 4K Blu-Ray disks. Buy it from Amazon: http://amzn.to/2q27xTt (affiliate link).\n\nTo view this video in real HDR you need a 4K HDR TV and a device with YouTube HDR such as Chromecast Ultra. YouTube HDR is also available on some Samsung TVs such as the KS7, KS8, and KS9 series with up-to-date firmware.\n\nIf you are viewing this YouTube video on an SDR (normal non-HDR) TV the color and contrast may not look correct.\n\nBBC Planet Earth II Cinematography Explained - https://www.cinema5d.com/bbc-planet-earth-ii-cinematography-explained/\n5 things we learned watching Planet Earth II on Ultra HD Blu-ray - https://www.whathifi.com/features/5-things-we-learned-watching-planet-earth-ii-ultra-hd-blu-ray\nPlanet Earth II: Was it really shot in 4K? - https://www.redsharknews.com/production/item/3941-planet-earth-ii-was-it-really-shot-in-4k\nTrue colours: delivering in HDR - http://www.televisual.com/blog-detail/True-colours-delivering-in-HDR_bid-943.html\nThe Crazy New Camera Tech That Made Planet Earth 2 Possible - https://www.wired.com/2017/03/crazy-new-camera-tech-made-planet-earth-2-possible/\nTim Laman Talks Stills and Motion Capture With RED - http://www.red.com/news/tim-laman-red-epic\nImage Planet - http://www.definitionmagazine.com/journal/2017/3/13/image-planet\nSony α7S Captures Never-Before-Filmed Creature For Planet Earth II- https://alphauniverse.com/stories/how-the-sony-a7s-captured-a-never-before-filmed-creature-for-planet-earth-ii/\nNetflix Slates ‘Our Planet’ Massive Nature Documentary Series for 2019 - http://variety.com/2015/digital/news/netflix-our-planet-documentary-series-1201472761/\nUHDTV - HDR, HLG & WCG - http://www.lightillusion.com/uhdtv.html\n\nPlanet Earth I was the first major nature documentary to be filmed in high definition. When it was originally aired in 2006 it had impressive ratings in both UK and US and it won multiple awards, including several Emmys and a Peabody award. More than ten years later, Planet Earth II is again pushing the boundaries by being one of the first documentaries released in HDR on 4K Blu-Ray disks.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8llyNBv1hrI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8llyNBv1hrI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8llyNBv1hrI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8llyNBv1hrI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8llyNBv1hrI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8llyNBv1hrI"
+        },
+        "videoOwnerChannelTitle": "The HDR Channel",
+        "videoOwnerChannelId": "UCve7_yAZHFNipzeAGBI5t9g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fE2DT5AO0Z5DFXLAoElSNIrxkDA",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC40MDNEMzA0QTBFRThFMzBE",
+      "snippet": {
+        "publishedAt": "2017-04-26T06:04:55Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "Peru 8K HDR 60FPS (FUHD)",
+        "description": "We want to share with everyone how we see the world in 8K.  \n\nPeru 8K HDR explores the people and landscapes of Peru. This footage was captured in natively in 8K UHD (4320p) and 60fps resolution with the brand new Red Helium 8K Super35mm sensor. Using the most up to date technology we created this video to deliver the most realistic and cinematic experience possible today, especially when viewed in HDR!\n\nTo view at 8K 60P you'll need to use Chrome at the moment. \n\nShot over 2 weeks traveling all over our the beautiful country of Peru: from Lima, to the amazon in Iquitos, Cusco, Ollantaytmbo and of course the stunning Machu Picchu, Puno where we visited Lake Titicaca and then traveling further into the lake to the inner island of Taquile. \n\nCHECK OUT OUR MOST POPULAR VIDEO: http://www.goo.gl/GnZESr\n► INSTAGRAM: http://www.instagram.com/mysterybox\n► INSTAGRAM: http://www.instagram.com/jacobschwarz\n►WEBSITE: http://www.mysterybox.us\n►FACEBOOK: https://www.facebook.com/mysteryboxdigitalcinema/\n\nMake sure to follow us on Instagram for BTS and sneak-peaks at upcoming projects. \n\nLICENSING & BUSINESS INQUIRIES\n► contact@mysterybox.us\n\nCHECK OUT OUR VIDEO PRODUCTION COMPANY\n► https://www.mysterybox.us\n\n8K PLAYLISTS\n► ►https://www.youtube.com/watch?v=hVvEISFw9w0&list=PLXLKdWNhIakTigYLmTDlkU6VHqaB4xxG1\n\nBLOG Check out our blog for great information on working in HDR and 8K. \n► http://www.mysterybox.us/blog\n\nSUBSCRIBE FOR MORE VIDS\n►https://www.youtube.com/user/jacobsch...\n\nMUSIC\n► Tony Anderson “Eyes Wide Open”\n\n► SHOT ON\nRed Weapon LE w/Helium 8K s35 sensor (Stormtrooper33)\nCanon 16-35mm III  \nCanon 24-70mm II\nSigma 150-500mm\nZeiss Classic 15mm\nMOVI M10\nAdobe Premiere and DaVinci Resolve\n\nAll of the drone footage was shot 4K 60p. \n\nOur Zeiss Otus lens were modified by Duclos Lenses. The Zeiss Otus lens are some of the best lens on the market for resolving true 8K resolution on the Helium S35 sensor. \nCheck them out @ https://www.ducloslenses.com\n\n\nLICENSING & BUSINESS INQUIRIES\n► contact@mysterybox.us\n\nThis video is subject to copyright owned by Mystery Box LLC. Any reproduction or republication of all or part of this video is expressly prohibited, unless Mystery Box has explicitly granted its prior written consent. All other rights reserved.\n\nCopyright © 2017 Mystery Box, LLC. All Rights Reserved.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1La4QzGeaaQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1La4QzGeaaQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1La4QzGeaaQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1La4QzGeaaQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1La4QzGeaaQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 44,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1La4QzGeaaQ"
+        },
+        "videoOwnerChannelTitle": "Jacob + Katie Schwarz",
+        "videoOwnerChannelId": "UCYq-iAOSZBvoUxvfzwKIZWA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PyGpHqLzJXtRBUbqSCuqfIOvCps",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC5EQkE3RTJCQTJEQkFBQTcz",
+      "snippet": {
+        "publishedAt": "2017-06-08T21:10:44Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "Real 4K HDR 60fps: Sony Glass Blowing Demo for Bravia A1E OLED in HDR (Chromecast Ultra)",
+        "description": "HDR demo created by Sony to show off their Sony Bravia A1E OLED TVs. Buy a Chromecast Ultra for your 4K HDR TV: https://bhpho.to/2ry54y5\n\nThanks to a great viewer for finding this video!\n\nTo view this video in real HDR you need a 4K HDR TV and a device with YouTube HDR such as Chromecast Ultra. YouTube HDR is also available on some Samsung TVs such as the KS7, KS8, and KS9 series with up-to-date firmware.\n\nIf you are viewing this video on an SDR (normal non-HDR) TV the color and contrast may not look correct.\n\n---\nAffiliate links disclosure: The HDR Channel is a participant in the Amazon, B&H Photo Video, and Adorama affiliate programs. If you purchase something from our affiliate links we will get a small commission with no extra cost to you. This makes it possible for us to make more videos. Thank you!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/74SZXCQb44s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/74SZXCQb44s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/74SZXCQb44s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 45,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "74SZXCQb44s"
+        },
+        "videoOwnerChannelTitle": "The HDR Channel",
+        "videoOwnerChannelId": "UCve7_yAZHFNipzeAGBI5t9g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jmVxFuFhAolBJUkfNVJ8h8aqCvA",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC4yQzk4QTA5QjkzMTFFOEI1",
+      "snippet": {
+        "publishedAt": "2017-06-08T21:10:51Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "Real 4K HDR: Rocky Mountain Express IMAX Documentary Clip in HDR (Chromecast Ultra)",
+        "description": "4K HDR clip from the Rocky Mountain Express IMAX documentary. Buy it from Amazon here: http://amzn.to/2q29oaS\n\nBuy a Chromecast Ultra for your 4K HDR TV: https://bhpho.to/2ry54y5\n\nTo view this video in real HDR you need a 4K HDR TV and a device with YouTube HDR such as Chromecast Ultra. YouTube HDR is also available on some Samsung TVs such as the KS7, KS8, and KS9 series with up-to-date firmware.\n\nIf you are viewing this video on an SDR (normal non-HDR) TV the color and contrast may not look correct.\n\n---\nAffiliate links disclosure: The HDR Channel is a participant in the Amazon, B&H Photo Video, and Adorama affiliate programs. If you purchase something from our affiliate links we will get a small commission with no extra cost to you. This makes it possible for us to make more videos. Thank you!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/evXH5IpAsTM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/evXH5IpAsTM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/evXH5IpAsTM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/evXH5IpAsTM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/evXH5IpAsTM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 46,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "evXH5IpAsTM"
+        },
+        "videoOwnerChannelTitle": "The HDR Channel",
+        "videoOwnerChannelId": "UCve7_yAZHFNipzeAGBI5t9g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Mo1ztuIBIDaUgrj2uMENBFmxoas",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC45NDlDQUFFOThDMTAxQjUw",
+      "snippet": {
+        "publishedAt": "2017-06-09T16:02:16Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "Real 4K HDR: Seattle Dusk in HDR (Chromecast Ultra)",
+        "description": "Seattle Gas Works Park, Kerry Park, Waterfront, Seattle Aquarium, Seattle Great Wheel, Seattle Ferries, Pike Place Market, The Showbox, The Pike Brewery. Filmed June 2017 in 5K anamorphic 1.3X (4992x2160) 10 bit 4:2:2 at 870 Mbps. Mastered in HDR at 1000 nits. See below for the list of hardware and software I used.\n\nBuy a Chromecast Ultra for your 4K HDR TV: https://bhpho.to/2ry54y5\n\nCamera: http://amzn.to/2r44LdA\nAnamorphic Adapter: http://bit.ly/2sR2hAg\nLens: http://amzn.to/2seArkO\nQuick Release Plate: http://amzn.to/2rschzL\nExternal HDR monitor: http://amzn.to/2r4hQ6H\nTripod and head: http://amzn.to/2sCatVO\nHDR color grading software: http://amzn.to/2rTrX2j\nCard for external HDR monitor: http://amzn.to/2smsV7C\n\nThis is an HDR Channel exclusive.\n\nTo view this video in real HDR you need a 4K HDR TV and a device with YouTube HDR such as Chromecast Ultra. YouTube HDR is also available on some Samsung TVs such as the KS7, KS8, and KS9 series with up-to-date firmware.\n\nIf you are viewing this video on an SDR (normal non-HDR) TV the color and contrast may not look correct.\n\n---\nAffiliate links disclosure: The HDR Channel is a participant in the Amazon, B&H Photo Video, and Adorama affiliate programs. If you purchase something from our affiliate links we will get a small commission with no extra cost to you. This makes it possible for us to make more videos. Thank you!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dg3I2DJ7C1U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dg3I2DJ7C1U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dg3I2DJ7C1U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dg3I2DJ7C1U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dg3I2DJ7C1U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 47,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dg3I2DJ7C1U"
+        },
+        "videoOwnerChannelTitle": "The HDR Channel",
+        "videoOwnerChannelId": "UCve7_yAZHFNipzeAGBI5t9g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1lfIE7IwBdKBR8Fjy3WnB4iuVVw",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC4xN0Y2QjVBOEI2MzQ5OUM5",
+      "snippet": {
+        "publishedAt": "2017-06-18T14:47:27Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "Real 4K HDR 60fps: Fremont Seattle Solstice Parade 2017 in HDR (Chromecast Ultra)",
+        "description": "Fremont Solstice Paradein Seattle filmed on June 17th, 2017 in 4K 60fps at 150 Mbps. This parade is a yearly tradition in Seattle and it has been attended over time by millions of people of ALL ages. Mastered in HDR at 1000 nits. See below for the list of hardware and software I used. To play this video in 4K AND HDR AND 60fps your hardware, Internet connection, and YouTube app all need to support it.\n\nBuy a Chromecast Ultra for your 4K HDR TV: https://bhpho.to/2ry54y5\n\nCamera: http://amzn.to/2r44LdA\nLens: http://amzn.to/2seArkO\nQuick Release Plate: http://amzn.to/2rschzL\nMonopod: http://amzn.to/2sCWUb4\nHDR color grading software: http://amzn.to/2rTrX2j\nCard for external HDR monitor: http://amzn.to/2smsV7C\n\nTo view this video in real HDR you need a 4K HDR TV and a device with YouTube HDR such as Chromecast Ultra. YouTube HDR is also available on some Samsung TVs such as the KS7, KS8, and KS9 series with up-to-date firmware.\n\nIf you are viewing this video on an SDR (normal non-HDR) TV the color and contrast may not look correct.\n\nMusic: Sugar by Vibe Tracks and Do It Right by Jingle Punks. You can download the music for free from here: https://www.youtube.com/audiolibrary/music\n\nThe Fremont Solstice Parade is an annual event produced in June by the Fremont Arts Council (FAC), a non-profit organization based in the Fremont neighborhood of Seattle, Washington that supports the arts and artists in and around the city. It is a Mardi-Gras styled, entirely human powered event that is distinguished from mainstream public parades by its unusual rules. These four rules are 'No written words, signage or recognizable logos; No motorized vehicles (except wheelchairs); no live animals (except guide animals); and no functional weapons. The event appears as a slowly paced music, dance and character procession where direct crowd interaction is encouraged and ensembles of actors in costume entertain with political and social commentary.\n\n---\nAffiliate links disclosure: The HDR Channel is a participant in the Amazon, B&H Photo Video, and Adorama affiliate programs. If you purchase something from our affiliate links we will get a small commission with no extra cost to you. This makes it possible for us to make more videos. Thank you!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QOPt_nPDD7w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QOPt_nPDD7w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QOPt_nPDD7w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QOPt_nPDD7w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QOPt_nPDD7w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 48,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QOPt_nPDD7w"
+        },
+        "videoOwnerChannelTitle": "The HDR Channel",
+        "videoOwnerChannelId": "UCve7_yAZHFNipzeAGBI5t9g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "En_p6Ka_pG-TH-5BDT6C-aPUzm0",
+      "id": "UExWNlBOejg5NXJuUHRpb2pQc3JXQUhlVVpXTUNxUE1SVC5FQUY2Qzk4RUFDN0ZFRkZF",
+      "snippet": {
+        "publishedAt": "2017-06-21T05:44:22Z",
+        "channelId": "UCve7_yAZHFNipzeAGBI5t9g",
+        "title": "Venice Carnival in 4K HDR 60P (UHD)",
+        "description": "CHECK OUT OUR MOST POPULAR VIDEO: http://www.goo.gl/GnZESr\n► INSTAGRAM: http://www.instagram.com/mysterybox\n► INSTAGRAM: http://www.instagram.com/jacobschwarz\n►WEBSITE: http://www.mysterybox.us\n►FACEBOOK: https://www.facebook.com/mysteryboxdigitalcinema/\n\nMake sure to follow us on Instagram for BTS and sneak-peaks at upcoming projects. \n\nLICENSING & BUSINESS INQUIRIES\n► contact@mysterybox.us\n\nCHECK OUT OUR VIDEO PRODUCTION COMPANY\n► https://www.mysterybox.us\n\n4K PLAYLISTS\n► https://www.youtube.com/playlist?list...\n\nBLOG Check out our blog for great information on working in HDR and 8K. \n► http://www.mysterybox.us/blog\n\nSUBSCRIBE FOR MORE VIDS\n►https://www.youtube.com/user/jacobsch...\n\nMUSIC\n► Dexter Britain “Seeing the Future”\n\nSHOT ON\nRed Weapon LE w/Mysterium sensor \nCanon 16-35mm III  \nCanon 24-70mm II\nSigma 150-500mm\nZeiss Classic 15mm\nMOVI M10\nAdobe Premiere and DaVinci Resolve\n\nLICENSING & BUSINESS INQUIRIES\n► contact@mysterybox.us\n\nThis video is subject to copyright owned by Mystery Box LLC. Any reproduction or republication of all or part of this video is expressly prohibited, unless Mystery Box has explicitly granted its prior written consent. All other rights reserved.\n\nCopyright © 2017 Mystery Box, LLC. All Rights Reserved.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GTGm7mye-_4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GTGm7mye-_4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GTGm7mye-_4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GTGm7mye-_4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GTGm7mye-_4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The HDR Channel",
+        "playlistId": "PLV6PNz895rnPtiojPsrWAHeUZWMCqPMRT",
+        "position": 49,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GTGm7mye-_4"
+        },
+        "videoOwnerChannelTitle": "Jacob + Katie Schwarz",
+        "videoOwnerChannelId": "UCYq-iAOSZBvoUxvfzwKIZWA"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 96,
+    "resultsPerPage": 50
+  }
+}
